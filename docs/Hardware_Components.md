@@ -1,1 +1,10 @@
-
+- ESP32 Development Board  
+- ADXL345 Accelerometer (Vibration Monitoring)  
+- ACS712 Current Sensor  
+- MAX9814 Microphone Module (Acoustic Monitoring)  
+- ADS1115 High-Resolution ADC  
+- DS3231 RTC (Time Synchronization)  
+- DHT11 / DHT22 Temperature Sensor  
+- Micro SD Card Module  
+- LEDs and Buzzer  
+- DC Motor (Test Machine)  
