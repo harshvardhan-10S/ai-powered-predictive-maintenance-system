@@ -1,1 +1,5 @@
-
+- Arduino IDE  
+- Embedded C / C++  
+- Machine Learning (Anomaly Detection)  
+- Edge Computing Techniques  
+- EasyEDA (Circuit Design)  
