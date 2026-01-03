@@ -1,1 +1,5 @@
-
+- Remaining Useful Life (RUL) prediction  
+- Cloud-based dashboards and analytics  
+- Advanced deep learning models  
+- Wireless protocols (LoRaWAN / 5G)  
+- Fully autonomous maintenance scheduling 
